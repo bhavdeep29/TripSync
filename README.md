@@ -1,4 +1,3 @@
-## live : https://tripsync-livid.vercel.app/
 
 # Getting Started with Create React App
 
